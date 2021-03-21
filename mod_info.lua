@@ -1,0 +1,11 @@
+name = "WordCubed Tweaks"
+uid = "893e9e56-8472-11eb-ba13-af19a0c1da88"
+version = 3
+copyright = "WordCubed"
+description = "Buffs HP of UEF Cruiser, Torpedo Boat, & Fatboy. Changes Fatboy AA into TMD. Rebalances all PD. Cuts build costs of UEF T2, T3, & T4 artillery. Removes Seraphim battleship nuke."
+author = "WordCubed"
+selectable = true
+enabled = true
+exclusive = false
+ui_only = false
+conflicts = { }
